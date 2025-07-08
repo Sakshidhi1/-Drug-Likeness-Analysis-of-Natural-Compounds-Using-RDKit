@@ -1,0 +1,11 @@
+Name,SMILES,Traditional_Use,Molecule,MolWt,MolLogP,NumHDonors,NumHAcceptors,TPSA,Lipinski_Pass
+Quinine,COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O,Used to treat malaria,<rdkit.Chem.rdchem.Mol object at 0x7d942d0836f0>,324.4240000000001,3.173200000000002,1,4,45.59,True
+Artemisinin,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C,Malaria treatment from Artemisia plant,<rdkit.Chem.rdchem.Mol object at 0x7d942d083140>,282.33599999999996,2.3949000000000007,0,5,53.99000000000001,True
+Morphine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O,Painkiller from opium poppy,<rdkit.Chem.rdchem.Mol object at 0x7d942d083bc0>,285.343,1.1981,2,4,52.93000000000001,True
+Paclitaxel (Taxol),CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C,Anticancer agent from Pacific yew,<rdkit.Chem.rdchem.Mol object at 0x7d942d083c30>,853.9180000000003,3.735700000000004,4,14,221.28999999999996,False
+Camptothecin,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=CC=CC=C5N=C4C3=C2)O,Topoisomerase inhibitor (anticancer),<rdkit.Chem.rdchem.Mol object at 0x7d942d083ca0>,348.35800000000006,2.0796000000000006,1,6,81.42,True
+Resveratrol,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,Antioxidant found in grapes,<rdkit.Chem.rdchem.Mol object at 0x7d942d083d10>,228.24699999999999,2.973800000000002,3,3,60.69,True
+Ephedrine,C[C@@H]([C@@H](C1=CC=CC=C1)O)NC,Stimulant and bronchodilator from Ephedra,<rdkit.Chem.rdchem.Mol object at 0x7d942d083d80>,165.236,1.3278999999999999,2,2,32.26,True
+Curcumin,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,Anti-inflammatory compound from turmeric,<rdkit.Chem.rdchem.Mol object at 0x7d942d083df0>,368.38500000000005,3.3699000000000026,2,6,93.06000000000002,True
+Berberine,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,Antimicrobial compound from Berberis,<rdkit.Chem.rdchem.Mol object at 0x7d942d083e60>,336.36700000000013,3.096300000000001,0,4,40.8,True
+Galanthamine,CN1CC[C@@]23C=C[C@@H](C[C@@H]2OC4=C(C=CC(=C34)C1)OC)O,Alzheimer’s treatment from snowdrop,<rdkit.Chem.rdchem.Mol object at 0x7d942d083ed0>,287.359,1.8503000000000003,1,4,41.93000000000001,True
